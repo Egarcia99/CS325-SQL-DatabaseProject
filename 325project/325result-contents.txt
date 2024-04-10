@@ -1,0 +1,547 @@
+===================================
+===== Account Contents =====
+===================================
+
+Account                   Phone        Premium                                  
+Email                     Number       Status                                   
+------------------------- ------------ -------                                  
+joeburrow@gmail.com       707-888-4898 T                                        
+                                                                                
+tbrady44@gmail.com        707-921-9399 T                                        
+                                                                                
+ttampanga@gmail.com       707-333-1323 T                                        
+                                                                                
+dbsammy@gmail.com         707-442-1344 T                                        
+                                                                                
+josephhilton@gmail.com    707-874-9654 T                                        
+                                                                                
+amandacruz@gmail.com      707-142-4544 T                                        
+                                                                                
+pamporter@gmail.com       707-877-3466 T                                        
+                                                                                
+sherrysmith@gmail.com     707-645-6989 T                                        
+                                                                                
+jamecobbler@gmail.com     707-188-2849 T                                        
+                                                                                
+jessenaga@gmail.com       707-392-6455 T                                        
+                                                                                
+===================================
+===== Account_follows Contents =====
+===================================
+
+Account                   Account                                               
+Following                 Email                                                 
+------------------------- -------------------------                             
+amandacruz@gmail.com      josephhilton@gmail.com                                
+                                                                                
+dbsammy@gmail.com         pamporter@gmail.com                                   
+                                                                                
+jamecobbler@gmail.com     amandacruz@gmail.com                                  
+                                                                                
+jamecobbler@gmail.com     jessenaga@gmail.com                                   
+                                                                                
+jessenaga@gmail.com       sherrysmith@gmail.com                                 
+                                                                                
+joeburrow@gmail.com       tbrady44@gmail.com                                    
+                                                                                
+josephhilton@gmail.com    amandacruz@gmail.com                                  
+                                                                                
+pamporter@gmail.com       amandacruz@gmail.com                                  
+                                                                                
+pamporter@gmail.com       dbsammy@gmail.com                                     
+                                                                                
+pamporter@gmail.com       joeburrow@gmail.com                                   
+                                                                                
+sherrysmith@gmail.com     ttampanga@gmail.com                                   
+                                                                                
+tbrady44@gmail.com        joeburrow@gmail.com                                   
+                                                                                
+ttampanga@gmail.com       jessenaga@gmail.com                                   
+                                                                                
+===================================
+===== Account_fav_genre Contents =====
+===================================
+
+Favorite        Account                                                         
+Genre           Email                                                           
+--------------- -------------------------                                       
+Blue Grass      ttampanga@gmail.com                                             
+                                                                                
+Blues           pamporter@gmail.com                                             
+                                                                                
+Classic Jazz    ttampanga@gmail.com                                             
+                                                                                
+Classical       jessenaga@gmail.com                                             
+                                                                                
+EDM             amandacruz@gmail.com                                            
+                                                                                
+Gospel          jamecobbler@gmail.com                                           
+                                                                                
+Hip-hop         tbrady44@gmail.com                                              
+                                                                                
+Metal           sherrysmith@gmail.com                                           
+                                                                                
+Rap             joeburrow@gmail.com                                             
+                                                                                
+Rock-and-Roll   josephhilton@gmail.com                                          
+                                                                                
+===================================
+===== Radio Contents =====
+===================================
+
+Radio  Radio                               Radio                                
+ID     Title                               Length                               
+------ ----------------------------------- ------                               
+111111 Classic Rock Radio                  1hr                                  
+                                                                                
+222222 Blue Grass Radio                    2.5hr                                
+                                                                                
+333333 Christmas Classics Radio            3hr                                  
+                                                                                
+444444 Nonstop Dance Radio                 2hr                                  
+                                                                                
+555555 Karaoke Night Radio                 3hr                                  
+                                                                                
+666666 Stoner Rock Radio                   1.5hr                                
+                                                                                
+777777 Halloween Radio                     2hr                                  
+                                                                                
+888888 Classical Piano Radio               4hr                                  
+                                                                                
+999999 Hip-hop Radio                       2hr                                  
+                                                                                
+955213 Blues Radio                         2hr                                  
+                                                                                
+===================================
+===== Song Contents =====
+===================================
+
+Song   Song    Song                                Release                      
+ID     Length  Title                               Date                         
+------ ------- ----------------------------------- ------------                 
+100000 4:10    Rhiannon                            13-APR-87                    
+                                                                                
+200000 4:00    Im N Luv (Wit a Stripper)           06-DEC-05                    
+                                                                                
+300000 7:36    Kaleidoscope                        06-OCT-09                    
+                                                                                
+400000 4:23    Red Lights                          13-JUN-14                    
+                                                                                
+500000 4:59    I Wanna Dance With Somebody         02-MAY-87                    
+                                                                                
+600000 5:25    Sad but True                        12-AUG-91                    
+                                                                                
+700000 3:39    Come as You Are                     24-SEP-91                    
+                                                                                
+800000 5:23    Funky Monks                         24-SEP-91                    
+                                                                                
+900000 2:30    Them Bones                          29-SEP-92                    
+                                                                                
+999999 5:30    The Thrill Is Gone                  10-OCT-92                    
+                                                                                
+===================================
+===== Artist Contents =====
+===================================
+
+Artist Artist                                                                   
+ID     Name                               Followers                             
+------ ------------------------------ -------------                             
+110011 Tiesto                                250000                             
+                                                                                
+220022 Metallica                            1000000                             
+                                                                                
+330033 Fleetwood Mac                        2000000                             
+                                                                                
+440044 T-Pain                               2500000                             
+                                                                                
+550055 Nirvana                              3000000                             
+                                                                                
+660066 Alice in Chains                       750000                             
+                                                                                
+770077 Whitney Houston                      4000000                             
+                                                                                
+880088 Red Hot Chili Peppers                3500000                             
+                                                                                
+990099 B.B. King                            4000000                             
+                                                                                
+924226 Allman Brothers Band                  753000                             
+                                                                                
+===================================
+===== Song_artist Contents =====
+===================================
+
+Song   Artist                                                                   
+ID     ID                                                                       
+------ ------                                                                   
+100000 330033                                                                   
+                                                                                
+200000 440044                                                                   
+                                                                                
+300000 110011                                                                   
+                                                                                
+400000 110011                                                                   
+                                                                                
+500000 770077                                                                   
+                                                                                
+600000 220022                                                                   
+                                                                                
+700000 550055                                                                   
+                                                                                
+800000 880088                                                                   
+                                                                                
+900000 660066                                                                   
+                                                                                
+999999 990099                                                                   
+                                                                                
+===================================
+===== Artist_followers Contents =====
+===================================
+
+Account                   Artist                                                
+Email                     ID                                                    
+------------------------- ------                                                
+amandacruz@gmail.com      660066                                                
+                                                                                
+dbsammy@gmail.com         924226                                                
+                                                                                
+jamecobbler@gmail.com     550055                                                
+                                                                                
+jessenaga@gmail.com       330033                                                
+                                                                                
+joeburrow@gmail.com       990099                                                
+                                                                                
+josephhilton@gmail.com    880088                                                
+                                                                                
+josephhilton@gmail.com    990099                                                
+                                                                                
+pamporter@gmail.com       990099                                                
+                                                                                
+tbrady44@gmail.com        440044                                                
+                                                                                
+ttampanga@gmail.com       770077                                                
+                                                                                
+===================================
+===== Playlist Contents =====
+===================================
+
+Playli Playlist                             Song                                
+ID     Title                               Count                                
+------ ----------------------------------- -----                                
+145122 Old School Rap                         13                                
+                                                                                
+212892 Christmas Carols                       22                                
+                                                                                
+312956 Tiesto Club Hits                       33                                
+                                                                                
+489123 Metal                                  22                                
+                                                                                
+534722 City Blues                             46                                
+                                                                                
+628199 My Favorite Rock                       32                                
+                                                                                
+782922 Saxy Jazz                              23                                
+                                                                                
+812122 Church Playlist                        15                                
+                                                                                
+953333 00s Hip-hop                            67                                
+                                                                                
+988421 Practice Squad Mix                     98                                
+                                                                                
+602875 Lofi Hip Hop Beats                    230                                
+                                                                                
+
+Playli Playli Account                                                           
+ID     Length Email                                                             
+------ ------ -------------------------                                         
+145122 1hr    joeburrow@gmail.com                                               
+                                                                                
+212892 1.5hr  pamporter@gmail.com                                               
+                                                                                
+312956 2hr    amandacruz@gmail.com                                              
+                                                                                
+489123 1hr    sherrysmith@gmail.com                                             
+                                                                                
+534722 3hr    pamporter@gmail.com                                               
+                                                                                
+628199 2hr    josephhilton@gmail.com                                            
+                                                                                
+782922 1.5hr  ttampanga@gmail.com                                               
+                                                                                
+812122 1hr    jamecobbler@gmail.com                                             
+                                                                                
+953333 4hr    tbrady44@gmail.com                                                
+                                                                                
+988421 5hr    tbrady44@gmail.com                                                
+                                                                                
+602875 7hr    amandacruz@gmail.com                                              
+                                                                                
+===================================
+===== Playlist_songs Contents =====
+===================================
+
+Playli Song                                                                     
+ID     ID                                                                       
+------ ------                                                                   
+312956 300000                                                                   
+                                                                                
+312956 400000                                                                   
+                                                                                
+489123 600000                                                                   
+                                                                                
+489123 900000                                                                   
+                                                                                
+534722 999999                                                                   
+                                                                                
+628199 100000                                                                   
+                                                                                
+628199 700000                                                                   
+                                                                                
+628199 900000                                                                   
+                                                                                
+953333 200000                                                                   
+                                                                                
+988421 500000                                                                   
+                                                                                
+===================================
+===== Album Contents =====
+===================================
+
+Album  Album                          Release       Song Album  Artist          
+ID     Title                          date         Count Length ID              
+------ ------------------------------ ------------ ----- ------ ------          
+123456 Rappa Ternt Sanga              06-DEC-05       18 1hr    440044          
+                                                                                
+234567 Fleetwood Mac                  11-JUL-75       22 2hr    330033          
+                                                                                
+345678 Kaleidoscope                   06-OCT-09       17 1hr    110011          
+                                                                                
+456789 Whitney                        02-MAY-87       11 1hr    770077          
+                                                                                
+567890 Blood Sugar Sex Magik          24-SEP-91       17 1hr    880088          
+                                                                                
+678901 Metallica                      12-AUG-91       12 1hr    220022          
+                                                                                
+789012 Nevermind                      24-SEP-91       12 1hr    550055          
+                                                                                
+890123 Dirt                           29-SEP-92       13 1hr    660066          
+                                                                                
+012345 King of the Blues              10-OCT-92       32 3hr    990099          
+                                                                                
+572540 Mothers Milk                   16-AUG-89       13 1hr    880088          
+                                                                                
+===================================
+===== Album_genre Contents =====
+===================================
+
+Album           Album                                                           
+Genre           ID                                                              
+--------------- ------                                                          
+Alternative     567890                                                          
+                                                                                
+Blues           012345                                                          
+                                                                                
+Classic Rock    234567                                                          
+                                                                                
+EDM             345678                                                          
+                                                                                
+Grunge          789012                                                          
+                                                                                
+Grunge          890123                                                          
+                                                                                
+Hip-hop         123456                                                          
+                                                                                
+Metal           678901                                                          
+                                                                                
+Pop             456789                                                          
+                                                                                
+Rock and Roll   567890                                                          
+                                                                                
+===================================
+===== Songs_on_album Contents =====
+===================================
+
+Album  Song                                                                     
+ID     ID                                                                       
+------ ------                                                                   
+012345 999999                                                                   
+                                                                                
+123456 200000                                                                   
+                                                                                
+234567 100000                                                                   
+                                                                                
+345678 300000                                                                   
+                                                                                
+345678 400000                                                                   
+                                                                                
+456789 500000                                                                   
+                                                                                
+567890 800000                                                                   
+                                                                                
+678901 600000                                                                   
+                                                                                
+789012 700000                                                                   
+                                                                                
+890123 900000                                                                   
+                                                                                
+===================================
+===== Songs_downloaded Contents =====
+===================================
+
+Song   Account                                                                  
+ID     Email                                                                    
+------ -------------------------                                                
+100000 tbrady44@gmail.com                                                       
+                                                                                
+200000 tbrady44@gmail.com                                                       
+                                                                                
+300000 amandacruz@gmail.com                                                     
+                                                                                
+400000 amandacruz@gmail.com                                                     
+                                                                                
+600000 sherrysmith@gmail.com                                                    
+                                                                                
+700000 josephhilton@gmail.com                                                   
+                                                                                
+800000 josephhilton@gmail.com                                                   
+                                                                                
+900000 josephhilton@gmail.com                                                   
+                                                                                
+900000 sherrysmith@gmail.com                                                    
+                                                                                
+999999 josephhilton@gmail.com                                                   
+                                                                                
+===================================
+===== Account_radio Contents =====
+===================================
+
+Radio  Account                                                                  
+ID     Email                                                                    
+------ -------------------------                                                
+111111 josephhilton@gmail.com                                                   
+                                                                                
+222222 josephhilton@gmail.com                                                   
+                                                                                
+222222 pamporter@gmail.com                                                      
+                                                                                
+333333 ttampanga@gmail.com                                                      
+                                                                                
+444444 amandacruz@gmail.com                                                     
+                                                                                
+666666 josephhilton@gmail.com                                                   
+                                                                                
+777777 jessenaga@gmail.com                                                      
+                                                                                
+888888 jessenaga@gmail.com                                                      
+                                                                                
+955213 pamporter@gmail.com                                                      
+                                                                                
+999999 tbrady44@gmail.com                                                       
+                                                                                
+===================================
+===== Song_in_radio Contents =====
+===================================
+
+Song   Radio                                                                    
+ID     ID                                                                       
+------ ------                                                                   
+100000 111111                                                                   
+                                                                                
+200000 555555                                                                   
+                                                                                
+200000 999999                                                                   
+                                                                                
+300000 444444                                                                   
+                                                                                
+400000 444444                                                                   
+                                                                                
+500000 555555                                                                   
+                                                                                
+800000 111111                                                                   
+                                                                                
+800000 666666                                                                   
+                                                                                
+900000 666666                                                                   
+                                                                                
+999999 955213                                                                   
+                                                                                
+===================================
+===== Albums_downloaded Contents =====
+===================================
+
+Album  Account                                                                  
+ID     Email                                                                    
+------ -------------------------                                                
+012345 jamecobbler@gmail.com                                                    
+                                                                                
+012345 pamporter@gmail.com                                                      
+                                                                                
+123456 tbrady44@gmail.com                                                       
+                                                                                
+234567 josephhilton@gmail.com                                                   
+                                                                                
+345678 amandacruz@gmail.com                                                     
+                                                                                
+456789 tbrady44@gmail.com                                                       
+                                                                                
+567890 joeburrow@gmail.com                                                      
+                                                                                
+678901 jamecobbler@gmail.com                                                    
+                                                                                
+789012 pamporter@gmail.com                                                      
+                                                                                
+890123 sherrysmith@gmail.com                                                    
+                                                                                
+===================================
+===== Artist_albums Contents =====
+===================================
+
+Album  Artist                                                                   
+ID     ID                                                                       
+------ ------                                                                   
+012345 990099                                                                   
+                                                                                
+123456 440044                                                                   
+                                                                                
+234567 330033                                                                   
+                                                                                
+345678 110011                                                                   
+                                                                                
+456789 770077                                                                   
+                                                                                
+567890 880088                                                                   
+                                                                                
+572540 880088                                                                   
+                                                                                
+678901 220022                                                                   
+                                                                                
+789012 550055                                                                   
+                                                                                
+890123 660066                                                                   
+                                                                                
+===================================
+===== playlist_download Contents =====
+===================================
+
+Playli Account                                                                  
+ID     Email                                                                    
+------ -------------------------                                                
+145122 amandacruz@gmail.com                                                     
+                                                                                
+212892 jamecobbler@gmail.com                                                    
+                                                                                
+212892 tbrady44@gmail.com                                                       
+                                                                                
+312956 amandacruz@gmail.com                                                     
+                                                                                
+312956 joeburrow@gmail.com                                                      
+                                                                                
+602875 josephhilton@gmail.com                                                   
+                                                                                
+602875 sherrysmith@gmail.com                                                    
+                                                                                
+602875 tbrady44@gmail.com                                                       
+                                                                                
+953333 jamecobbler@gmail.com                                                    
+                                                                                
+988421 tbrady44@gmail.com                                                       
+                                                                                

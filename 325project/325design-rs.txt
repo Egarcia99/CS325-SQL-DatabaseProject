@@ -1,0 +1,58 @@
+Jake Freed, Emilyo Garcia
+Professor Asadinia
+CS 325 Fall 2022
+December 6 2022
+Relational Structures
+Album (ALBUM_ID, album_title, album_date_out, album_song_count, album_length, artist_id)
+	Foreign key (artist_id) references Artist
+Album_genre(ALBUM_ID, ALBUM_GENRE)
+Foreign key (album_id) references Album
+Songs_on_album(ALBUM_ID, SONG_ID)
+	Foreign key (album_id) references Album
+	Foreign key (song_id) references song
+Albums_downloaded(ALBUM_ID, ACCOUNT_EMAIL)
+	Foreign key (album_id) references album
+	Foreign key (account_email) references account
+	
+
+Account (ACCOUNT_EMAIL, account_phone, account_premium)
+Account_follows(ACCOUNT_EMAIL, ACCOUNT_FOLLOWING)
+	Foreign key (account_following) references account(account_email)
+Foreign key (account_email) references account
+Account_fav_genre(ACCOUNT_EMAIL, ACCOUNT_FAVORITE_GENRES)
+Foreign key (account_email) references account
+
+Playlist (PLAYLIST_ID, playlist_title, playlist_count, playlist_length, account_email)
+	Foreign key (account_email) references account
+Playlist_Songs(PLAYLIST_ID, SONG_ID)
+	Foreign key (playlist_id) references Playlist
+	Foreign key (song_id) references Song
+Playlist_download(PLAYLIST_ID, ACCOUNT_EMAIL)
+
+Artist (ARTIST_ID, artist_name, artist_followers)
+Artist_followers(ARTIST_ID, ACCOUNT_EMAIL)
+	Foreign key (artist_id) references Artist
+	Foreign key (account_email) references Account
+Artist_albums(ALBUM_ID, ARTIST_ID)
+
+
+
+Song (SONG_ID, song_length, song_title, song_date_out)
+Song_Artist(SONG_ID, ARTIST_ID)
+	Foreign key (song_id) references Song
+	Foreign key (artist_id) references Artist
+Song_in_radio(SONG_ID, RADIO_ID)
+	Foreign key (song_id) references song
+	Foreign key (radio_id) references song
+Songs_downloaded(SONG_ID, ACCOUNT_EMAIL)
+	Forieng key (song_id) references song
+	Foreign key (account_email) references account
+
+
+Radio (RADIO_ID, radio_title, radio_length)
+Account_Radio(RADIO_ID, ACCOUNT_EMAIL)
+	Foreign key (radio_id) references radio
+	Foreign key (account_email) references account
+
+
+

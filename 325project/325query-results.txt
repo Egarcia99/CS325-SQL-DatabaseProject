@@ -1,0 +1,110 @@
+===== 1. Songs on each album =====
+
+TRACK_COUNT ALBUM_TITLE                                                         
+----------- --------------------------------------------------                  
+         32 King of the Blues                                                   
+         22 Fleetwood Mac                                                       
+         18 Rappa Ternt Sanga                                                   
+         17 Kaleidoscope                                                        
+         17 Blood Sugar Sex Magik                                               
+         13 Dirt                                                                
+         13 Mothers Milk                                                        
+         12 Metallica                                                           
+         12 Nevermind                                                           
+         11 Whitney                                                             
+
+10 rows selected.
+
+===== 2. Grunge albums =====
+
+ALBUM_ ALBUM_TITLE                                                              
+------ --------------------------------------------------                       
+789012 Nevermind                                                                
+890123 Dirt                                                                     
+
+2 rows selected.
+
+===== 3. Average followers of all artists =====
+
+AVG(ARTIST_FOLLOWERS)                                                           
+---------------------                                                           
+              2175300                                                           
+
+1 row selected.
+
+===== 4. Users with >1 followers =====
+
+ FOLLOWERS ACCOUNT_EMAIL                                                        
+---------- --------------------------------------------------                   
+         3 amandacruz@gmail.com                                                 
+         2 joeburrow@gmail.com                                                  
+         2 jessenaga@gmail.com                                                  
+
+3 rows selected.
+
+===== 5. Song titles matched with albums =====
+
+Album                     Song                                                  
+Title                     Title                          SONG_DATE              
+------------------------- ------------------------------ ---------              
+Rappa Ternt Sanga         Im N Luv (Wit a Stripper)      06-DEC-05              
+Fleetwood Mac             Rhiannon                       13-APR-87              
+Kaleidoscope              Red Lights                     13-JUN-14              
+Kaleidoscope              Kaleidoscope                   06-OCT-09              
+Whitney                   I Wanna Dance With Somebody    02-MAY-87              
+Blood Sugar Sex Magik     Funky Monks                    24-SEP-91              
+Metallica                 Sad but True                   12-AUG-91              
+Nevermind                 Come as You Are                24-SEP-91              
+Dirt                      Them Bones                     29-SEP-92              
+King of the Blues         The Thrill Is Gone             10-OCT-92              
+
+10 rows selected.
+
+===== 6. Albums released after 2000 with more than 10 songs =====
+
+ALBUM_DAT TRACK_COUNT ALBUM_TITLE                                               
+--------- ----------- --------------------------------------------------        
+06-DEC-05          18 Rappa Ternt Sanga                                         
+06-OCT-09          17 Kaleidoscope                                              
+
+2 rows selected.
+
+===== 7. Artists with more than 1 million followers =====
+
+ARTIST ARTIST_NAME                                        ARTIST_FOLLOWERS      
+------ -------------------------------------------------- ----------------      
+330033 Fleetwood Mac                                               2000000      
+440044 T-Pain                                                      2500000      
+550055 Nirvana                                                     3000000      
+770077 Whitney Houston                                             4000000      
+880088 Red Hot Chili Peppers                                       3500000      
+990099 B.B. King                                                   4000000      
+
+6 rows selected.
+
+===== 8. All playlists and their songs =====
+
+PLAYLIST_TITLE                      SONG_TITLE                                  
+----------------------------------- -----------------------------------         
+Tiesto Club Hits                    Red Lights                                  
+                                    Kaleidoscope                                
+*********************************** -----------------------------------         
+                                                                                
+Metal                               Them Bones                                  
+                                    Sad but True                                
+*********************************** -----------------------------------         
+                                                                                
+City Blues                          The Thrill Is Gone                          
+*********************************** -----------------------------------         
+                                                                                
+My Favorite Rock                    Them Bones                                  
+                                    Come as You Are                             
+                                    Rhiannon                                    
+*********************************** -----------------------------------         
+                                                                                
+00s Hip-hop                         Im N Luv (Wit a Stripper)                   
+*********************************** -----------------------------------         
+                                                                                
+Practice Squad Mix                  I Wanna Dance With Somebody                 
+*********************************** -----------------------------------         
+                                                                                

@@ -1,0 +1,50 @@
+
+Wed Dec 07                                                             page    1
+                       User Accounts Following Each Other
+
+User                           User                                             
+Following                      Followed                                         
+------------------------------ ------------------------------                   
+amandacruz@gmail.com           josephhilton@gmail.com                           
+****************************** ------------------------------                   
+count                                                       1                   
+                                                                                
+dbsammy@gmail.com              pamporter@gmail.com                              
+****************************** ------------------------------                   
+count                                                       1                   
+                                                                                
+jamecobbler@gmail.com          amandacruz@gmail.com                             
+                               jessenaga@gmail.com                              
+****************************** ------------------------------                   
+count                                                       2                   
+                                                                                
+jessenaga@gmail.com            sherrysmith@gmail.com                            
+****************************** ------------------------------                   
+count                                                       1                   
+                                                                                
+joeburrow@gmail.com            tbrady44@gmail.com                               
+****************************** ------------------------------                   
+count                                                       1                   
+                                                                                
+josephhilton@gmail.com         amandacruz@gmail.com                             
+****************************** ------------------------------                   
+count                                                       1                   
+                                                                                
+pamporter@gmail.com            amandacruz@gmail.com                             
+                               dbsammy@gmail.com                                
+                               joeburrow@gmail.com                              
+****************************** ------------------------------                   
+count                                                       3                   
+                                                                                
+sherrysmith@gmail.com          ttampanga@gmail.com                              
+****************************** ------------------------------                   
+count                                                       1                   
+                                                                                
+tbrady44@gmail.com             joeburrow@gmail.com                              
+****************************** ------------------------------                   
+count                                                       1                   
+                                                                                
+ttampanga@gmail.com            jessenaga@gmail.com                              
+****************************** ------------------------------                   
+count                                                       1                   
+                                                                                

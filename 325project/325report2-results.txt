@@ -1,0 +1,26 @@
+
+Wed Dec 07                                                             page    1
+                              All Songs and Albums
+
+              Album                     Song                           Song     
+AlbmID SongId Title                     Title                          Date     
+------ ------ ------------------------- ------------------------------ ---------
+123456 200000 Rappa Ternt Sanga         Im N Luv (Wit a Stripper)      06-DEC-05
+                                                                                
+234567 100000 Fleetwood Mac             Rhiannon                       13-APR-87
+                                                                                
+345678 400000 Kaleidoscope              Red Lights                     13-JUN-14
+345678 300000                           Kaleidoscope                   06-OCT-09
+                                                                                
+456789 500000 Whitney                   I Wanna Dance With Somebody    02-MAY-87
+                                                                                
+567890 800000 Blood Sugar Sex Magik     Funky Monks                    24-SEP-91
+                                                                                
+678901 600000 Metallica                 Sad but True                   12-AUG-91
+                                                                                
+789012 700000 Nevermind                 Come as You Are                24-SEP-91
+                                                                                
+890123 900000 Dirt                      Them Bones                     29-SEP-92
+                                                                                
+012345 999999 King of the Blues         The Thrill Is Gone             10-OCT-92
+                                                                                
